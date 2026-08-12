@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/harsh-var123/code.cp/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/harsh-var123/code.cp/tree/master/0503-next-greater-element-ii) |
 | [2596-check-knight-tour-configuration](https://github.com/harsh-var123/code.cp/tree/master/2596-check-knight-tour-configuration) |
 ## Depth-First Search
 |  |
@@ -47,8 +48,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/harsh-var123/code.cp/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/harsh-var123/code.cp/tree/master/0503-next-greater-element-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/harsh-var123/code.cp/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/harsh-var123/code.cp/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
