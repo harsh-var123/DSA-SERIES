@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/harsh-var123/code.cp/tree/master/0021-merge-two-sorted-lists) |
+| [0146-lru-cache](https://github.com/harsh-var123/code.cp/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/harsh-var123/code.cp/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/harsh-var123/code.cp/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/harsh-var123/code.cp/tree/master/0146-lru-cache) |
 | [0496-next-greater-element-i](https://github.com/harsh-var123/code.cp/tree/master/0496-next-greater-element-i) |
 ## Stack
 |  |
@@ -59,4 +61,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/harsh-var123/code.cp/tree/master/0136-single-number) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/harsh-var123/code.cp/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/harsh-var123/code.cp/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
