@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/harsh-var123/code.cp/tree/master/0100-same-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/harsh-var123/code.cp/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/harsh-var123/code.cp/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/harsh-var123/code.cp/tree/master/0572-subtree-of-another-tree) |
 | [2596-check-knight-tour-configuration](https://github.com/harsh-var123/code.cp/tree/master/2596-check-knight-tour-configuration) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/harsh-var123/code.cp/tree/master/0021-merge-two-sorted-lists) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/harsh-var123/code.cp/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0146-lru-cache](https://github.com/harsh-var123/code.cp/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/harsh-var123/code.cp/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/harsh-var123/code.cp/tree/master/0876-middle-of-the-linked-list) |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/harsh-var123/code.cp/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0225-implement-stack-using-queues](https://github.com/harsh-var123/code.cp/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/harsh-var123/code.cp/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/harsh-var123/code.cp/tree/master/0496-next-greater-element-i) |
@@ -114,12 +117,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/harsh-var123/code.cp/tree/master/0100-same-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/harsh-var123/code.cp/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/harsh-var123/code.cp/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/harsh-var123/code.cp/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/harsh-var123/code.cp/tree/master/0100-same-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/harsh-var123/code.cp/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/harsh-var123/code.cp/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/harsh-var123/code.cp/tree/master/0572-subtree-of-another-tree) |
 ## String Matching
