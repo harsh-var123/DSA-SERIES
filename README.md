@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/harsh-var123/code.cp/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/harsh-var123/code.cp/tree/master/0100-same-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/harsh-var123/code.cp/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/harsh-var123/code.cp/tree/master/0543-diameter-of-binary-tree) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/harsh-var123/code.cp/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/harsh-var123/code.cp/tree/master/0100-same-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/harsh-var123/code.cp/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/harsh-var123/code.cp/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/harsh-var123/code.cp/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/harsh-var123/code.cp/tree/master/0100-same-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/harsh-var123/code.cp/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/harsh-var123/code.cp/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -149,5 +152,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/harsh-var123/code.cp/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/harsh-var123/code.cp/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
