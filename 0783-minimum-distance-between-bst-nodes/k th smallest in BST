@@ -1,0 +1,31 @@
+class Solution {
+public:
+    int count = 0;
+
+    int kthSmallest(TreeNode* root, int k) {
+
+        // If root is NULL
+        if (root == NULL) {
+            return -1;
+        }
+
+        // Go to left subtree
+        int leftAns = kthSmallest(root->left, k);
+
+        // If answer is already found
+        if (leftAns != -1) {
+            return leftAns;
+        }
+
+        // Visit current node
+        count++;
+
+        // Check if this is kth node
+        if (count == k) {
+            return root->val;
+        }
+
+        // Go to right subtree
+        return kthSmallest(root->right, k);
+    }
+};
