@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/harsh-var123/code.cp/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/harsh-var123/code.cp/tree/master/0136-single-number) |
+| [0200-number-of-islands](https://github.com/harsh-var123/code.cp/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/harsh-var123/code.cp/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/harsh-var123/code.cp/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/harsh-var123/code.cp/tree/master/0503-next-greater-element-ii) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/harsh-var123/code.cp/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/harsh-var123/code.cp/tree/master/0100-same-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/harsh-var123/code.cp/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0200-number-of-islands](https://github.com/harsh-var123/code.cp/tree/master/0200-number-of-islands) |
 | [0543-diameter-of-binary-tree](https://github.com/harsh-var123/code.cp/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/harsh-var123/code.cp/tree/master/0572-subtree-of-another-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/harsh-var123/code.cp/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -26,11 +28,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/harsh-var123/code.cp/tree/master/0100-same-tree) |
+| [0200-number-of-islands](https://github.com/harsh-var123/code.cp/tree/master/0200-number-of-islands) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/harsh-var123/code.cp/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [2596-check-knight-tour-configuration](https://github.com/harsh-var123/code.cp/tree/master/2596-check-knight-tour-configuration) |
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/harsh-var123/code.cp/tree/master/0200-number-of-islands) |
 | [2596-check-knight-tour-configuration](https://github.com/harsh-var123/code.cp/tree/master/2596-check-knight-tour-configuration) |
 ## Simulation
 |  |
@@ -159,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/harsh-var123/code.cp/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/harsh-var123/code.cp/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/harsh-var123/code.cp/tree/master/0783-minimum-distance-between-bst-nodes) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/harsh-var123/code.cp/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
